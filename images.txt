@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-debian:12.5
+debian/debian:12.5
