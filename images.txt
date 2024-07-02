@@ -23,3 +23,11 @@ ubuntu:22.04
 ubuntu:20.04
 ubuntu:18.04
 ubuntu:16.04
+
+mysql
+mysql:8.0.37
+
+redis
+redis:7.0.15
+redis:6.0.16
+redis:5.0.14
