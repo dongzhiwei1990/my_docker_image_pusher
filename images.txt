@@ -38,3 +38,5 @@ openjdk:17
 openjdk:21
 
 jenkinsci/blueocean
+
+rustdesk/rustdesk-server
