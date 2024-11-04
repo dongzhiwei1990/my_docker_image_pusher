@@ -37,9 +37,10 @@ redis
 openjdk:17
 openjdk:21
 
-# jenkinsci/blueocean
-
-@ rustdesk/rustdesk-server
-
 apache/rocketmq:4.9.6
 apache/rocketmq:5.3.1
+
+# jenkinsci/blueocean
+
+# rustdesk/rustdesk-server
+
