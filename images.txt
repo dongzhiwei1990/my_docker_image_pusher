@@ -32,11 +32,14 @@ redis
 # redis:6.0.16
 # redis:5.0.14
 
-openjdk:8
+# openjdk:8
 # openjdk:11
 openjdk:17
 openjdk:21
 
-jenkinsci/blueocean
+# jenkinsci/blueocean
 
-rustdesk/rustdesk-server
+@ rustdesk/rustdesk-server
+
+apache/rocketmq:4.9.6
+apache/rocketmq:5.3.1
