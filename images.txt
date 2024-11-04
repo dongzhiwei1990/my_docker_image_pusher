@@ -19,6 +19,7 @@ debian
 # debian:11.1
 
 ubuntu
+ubuntu:24.04
 # ubuntu:22.04
 # ubuntu:20.04
 # ubuntu:18.04
@@ -37,10 +38,9 @@ redis
 openjdk:17
 openjdk:21
 
-apache/rocketmq:4.9.6
+# apache/rocketmq:4.9.6
 apache/rocketmq:5.3.1
 apache/rocketmq
-apache/rocketmq:4.9.8
 
 # jenkinsci/blueocean
 
