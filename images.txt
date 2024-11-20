@@ -35,14 +35,18 @@ redis
 
 # openjdk:8
 # openjdk:11
-openjdk:17
-openjdk:21
+# openjdk:17
+# openjdk:21
 
 # apache/rocketmq:4.9.6
-apache/rocketmq:5.3.1
-apache/rocketmq
+# apache/rocketmq:5.3.1
+# apache/rocketmq
 
-apacherocketmq/rocketmq-dashboard
+1panel/maxkb
+1panel/maxkb:v1.7.2
+
+
+# apacherocketmq/rocketmq-dashboard
 
 # jenkinsci/blueocean
 
