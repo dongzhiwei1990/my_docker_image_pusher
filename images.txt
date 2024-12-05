@@ -42,8 +42,12 @@ redis
 # apache/rocketmq:5.3.1
 # apache/rocketmq
 
-1panel/maxkb
-1panel/maxkb:v1.7.2
+# 1panel/maxkb
+# 1panel/maxkb:v1.7.2
+
+gitea/gitea:latest
+gitea/gitea:1.22.4
+gitea/gitea:1.21.11
 
 
 # apacherocketmq/rocketmq-dashboard
